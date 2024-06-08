@@ -5,23 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="998e1cad-6e79-4cac-a9d3-fa10ea3b6291" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/code/requirements.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/code/train_deploy.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mlflow-key.pem" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/train_job_local.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/training-job-bert-kaggle.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/training-job-bert-sagemaker.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/TrainingSentimentService.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/dbnavigator.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/train_job.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/training-job-bert-kaggle.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/training-job-bert-kaggle.ipynb" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -85,7 +70,7 @@
       <workItem from="1717440959095" duration="28995000" />
       <workItem from="1717576962169" duration="44371000" />
       <workItem from="1717786859114" duration="774000" />
-      <workItem from="1717825884030" duration="8418000" />
+      <workItem from="1717825884030" duration="9219000" />
     </task>
     <servers />
   </component>
